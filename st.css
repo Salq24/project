@@ -1,0 +1,6 @@
+body.full-content, body {
+    background: red;
+    background-image: url(../images/image.png)
+    background-size: cover;
+    padding-top: 0;
+}
